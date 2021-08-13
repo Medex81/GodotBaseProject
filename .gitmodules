@@ -1,0 +1,3 @@
+[submodule "Managers"]
+	path = Managers
+	url = https://github.com/Medex81/Managers.git
